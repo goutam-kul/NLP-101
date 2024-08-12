@@ -1,3 +1,4 @@
 nltk 
+gensim
 notebook
 scikit-learn
