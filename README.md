@@ -1,7 +1,15 @@
 # NLP-101
-- This repo contains NLP notes and practical implementations. The repository is designed for students/personnels who are getting started with NLP. 
-  This is a begginer friendly environment where you will find notes written in very basic language with examples that make you understand complex topics easier.
-- To run the codes in you environment make sure to install the necessary libraries using <br/>:
-  `pip install -r requirements.txt`
-- or read the requirements.txt file and do <br/>:
-  `pip install <library_name>` for each library name in the requirements.txt file 
+This repository is created to teach Natural Language Processing and topics to complete beginners. 
+
+# Prerequisites 
+- Familiarity with Python
+- Experience with jupyter notebooks
+- OOP concept in python 
+
+
+# Run in your environment
+- To run the code on your machine, you must have the necessary libraries used in this repository. 
+- To install the necessary libraries, you can copy the requirements.txt file and, in this same directory, do -
+  > `pip install -r requirements.txt`
+- Or to install only the libraries you want just do -
+  > `pip install <library_name>` (replace `<library_name>` with the library you want to install, e.g., `pip install pandas`)
