@@ -1,4 +1,9 @@
 nltk 
+torch
+pandas
+torchvision
+torchaudio
 gensim
 notebook
 scikit-learn
+matplotlib
